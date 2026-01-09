@@ -1,4 +1,3 @@
-# lapkalapka[README_RUS.md](https://github.com/user-attachments/files/24526118/README_RUS.md)
 # Операционные системы UNIX/Linux (Базовый).
 
 > При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
